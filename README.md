@@ -1,29 +1,7 @@
-<<<<<<< HEAD
-# README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+toy_app
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# toy_app
 Ruby on Rails Tutorial Chapter 2
->>>>>>> 4301cfb1c5599fdde17833705eccc26b6f035893
